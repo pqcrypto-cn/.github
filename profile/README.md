@@ -34,7 +34,7 @@ PQMagic 支持针对不同架构与国产化设备定制高性能优化版本，
 | Aigis-sig |  ✅          |  ✅                  |
 | SPHINCS-Alpha |  ✅          |  ✅                  |
 | 特性       | 跨平台/架构 高度兼容 | 针对x64（海光）、ARM（飞腾）等定制高性能优化版本 |
-| 源码       | 开源于[gitee](https://gitee.com/pqcrypto/pqmagic) 和 [github](https://github.com/pqcrypto-cn/PQMagic) | 请[联系我们](#联系我们)获取高性能优化支持 |
+| 源码       | 开源于 [gitee](https://gitee.com/pqcrypto/pqmagic) 和 [github](https://github.com/pqcrypto-cn/PQMagic) | 请[联系我们](#联系我们)获取高性能优化支持 |
 
 ### 应用
 
