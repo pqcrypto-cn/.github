@@ -38,8 +38,8 @@ PQMagic 支持针对不同架构与国产化设备定制高性能优化版本，
 
 ### 应用
 
-- [PQSign](https://pqcrypto.cn/applications/pqsign/)（使用 Aigis-sig 对文件做签名/验签）
-- [SM3Sum](https://pqcrypto.cn/applications/sm3sum)（使用 SM3 哈希来检验文件完整性）
+- [PQSign](https://pqcrypto.dev/applications/pqsign/)（使用 Aigis-sig 对文件做签名/验签）
+- [SM3Sum](https://pqcrypto.dev/applications/sm3sum)（使用 SM3 哈希来检验文件完整性）
 - OpenSSH（已支持后量子密钥交换）
 
 ## 他们正在使用
